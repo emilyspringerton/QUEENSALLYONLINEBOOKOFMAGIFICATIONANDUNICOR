@@ -56,7 +56,7 @@ normal payload:
    version string), so Apples remain honest about provenance the way `HQ-SPEC-AI-103`'s
    `fabledata` provenance fields require.
 3. Astrological/transit info, always — using Dallas, TX as the reference location (the
-   founder's current real-world location; see memory `user-location-dallas`).
+   the server's own location (Dallas, TX), not the founder's; see memory `server-location-dallas`).
 
 This is real backlog work, not yet built — see `EMILY/BACKLOG.md` for the tracking section
 (added 2026-07-16, search "APPLE ENRICHMENT" or the section number noted in the same commit
