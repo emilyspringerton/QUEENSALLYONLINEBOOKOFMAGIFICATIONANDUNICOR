@@ -73,3 +73,7 @@ implementation to port from, not a runtime dependency.
   fingerprint/model-fingerprint/astrology fields need to land in the Apple payload IDUNA
   accepts.
 - `EMILY/BACKLOG.md` `SECTION 145` (FABLE) — the broader in-house model line this connects to.
+
+## Commit Protocol (standing instruction)
+
+Always commit and push completed work immediately — don't wait to be asked. This is the default for every repo in this monorepo.
